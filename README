@@ -2,6 +2,8 @@ Author: Yixiong Ding <yixiongd@student.unimelb.edu.au>
 Date: 11 October, 2017
 The University of Melbourne 
 
-bigram1.py: Search the frequency of bi-gram `make me' and its variations in the tweet, such as `make you', `make my' and `made me', etc. If any of bigrams are found, label the tweet as "Y", otherwise "N". Written by Yixiong Ding.
+The porpose of the two programs is to identify if the tweets contain the specific bi-gram and then label with "Y" or "N".Í
+
+bigram1.py: Search the frequency of bi-gram 'make me' and its variations in the tweet, such as 'make you', 'make my' and 'made me', etc. If any of bigrams are found, label the tweet as "Y", otherwise "N". Written by Yixiong Ding.
 
 bigram2.py: Search the tweet and determine whether there is an bi-gram of any medication names and symptoms. Logically we can deduce that the medication causes the symptom and label the tweet as "Y", otherwise "N". Written by Yixiong Ding.
